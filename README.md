@@ -14,4 +14,4 @@
    - On line 34 of the code, change the executable path if you want.
    - on line 39, change the viewPort settings to your monitor's resolution, if you face any bugs in the automation.
 
-### If anyone knows of gia fix to this viewport bug, please create a pull request and help me out.
+### If anyone knows of a fix to this viewport bug, please create a pull request and help me out.

@@ -1,6 +1,6 @@
 ## An awesome script that solves word search puzzles for you automatically.
 
-### Website containing the word search this script will automate. - [https://wordsearch.samsonn.com/](https://wordsearch.samsonn.com/)
+### Website containing the word search this script will automate - [https://wordsearch.samsonn.com/](https://wordsearch.samsonn.com/)
 
 ### Tech Stack - Pupeteer and Node for the javascript application.
 

@@ -1,6 +1,6 @@
 ## An awesome script that solves word search puzzles for you automatically.
 
-### Website - [https://wordsearch.samsonn.com/](https://wordsearch.samsonn.com/)
+### Website containing the word search this script will automate. - [https://wordsearch.samsonn.com/](https://wordsearch.samsonn.com/)
 
 ### Tech Stack - Pupeteer and Node for the javascript application.
 
@@ -14,4 +14,4 @@
    - On line 34 of the code, change the executable path if you want.
    - on line 39, change the viewPort settings to your monitor's resolution, if you face any bugs in the automation.
 
-### If anyone knows of a fix to this viewport bug, please create a pull request and help me out.
+### If anyone knows of gia fix to this viewport bug, please create a pull request and help me out.
